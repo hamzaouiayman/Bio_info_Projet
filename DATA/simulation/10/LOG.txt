@@ -1,0 +1,1966 @@
+********************************************************************************
+INDELible V1.03 by Will Fletcher : Simulation began at: Tue Nov 12 22:27:18 2019
+********************************************************************************
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T1                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T1                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T1                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T1                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T1                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T1                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T1                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T1                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T1                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T1                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T1                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T1                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T1                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T1                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T1                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T1                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T1                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T1                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T1                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T1                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T1                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T1                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T1                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T1                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T1                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T1                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T1                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T1                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T1                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T1                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T1                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T1                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T1                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T1                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T1                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T1                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T1                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T1                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T1                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T1                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T1                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T1                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T1                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T1                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T1                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T1                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T1                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T1                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T1                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T1                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T1                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T1                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T1                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T1                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T1                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T1                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T1                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T1                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T1                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T1                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T1                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T1                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T1                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T1                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T1                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T1                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T2                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T2                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T2                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T2                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T2                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T2                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T2                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T2                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T2                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T2                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T2                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T2                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T2                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T2                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T2                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T2                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T2                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T2                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T2                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T2                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T2                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T2                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T2                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T2                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T2                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T2                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T2                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T2                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T2                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T2                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T2                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T2                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T2                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T2                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T2                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T2                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T2                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T2                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T2                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T2                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T2                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T2                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T2                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T2                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T2                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T2                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T2                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T2                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T2                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T2                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T2                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T2                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T2                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T2                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T2                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T2                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T2                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T2                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T2                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T2                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T2                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T2                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T2                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T2                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T2                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T2                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T2                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T2                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T2                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T2                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+
++----------------------------------------------------+
+| ERROR in [TREE] block T3                           |
+| Something is wrong in the getnextdepthcommand.     |
+|  Please report this and it will be promptly fixed! |
++----------------------------------------------------+
+
+
+  Actual Insertion : Deletion Ratio  0.567568 : 0.432432	(Total indel rate = 1)
+  Actual average insertion length    2
+  Actual average deletion length     1.8125
+  Number of insertion events         21
+  Number of deletion events          16
+
+  * Block 1 was completed in 0.119801 seconds.
+
+********************************************************************************
+
+
+  Actual Insertion : Deletion Ratio  0.613636 : 0.386364	(Total indel rate = 1)
+  Actual average insertion length    2.18519
+  Actual average deletion length     1.76471
+  Number of insertion events         27
+  Number of deletion events          17
+
+  * Block 2 was completed in 0.136344 seconds.
+
+********************************************************************************
+
+
+  Actual Insertion : Deletion Ratio  0.471698 : 0.528302	(Total indel rate = 1)
+  Actual average insertion length    2.32
+  Actual average deletion length     2.35714
+  Number of insertion events         25
+  Number of deletion events          28
+
+  * Block 3 was completed in 0.196151 seconds.
+
+********************************************************************************
+
+  * Simulation completed. Whole batch took: 0.471397 seconds.
+
+INDELible V1.03 Simulations completed at: Tue Nov 12 22:27:19 2019
+
+********************************************************************************
+
+
+ Original Control File 
+
+-----------------------
+
+
+[TYPE] NUCLEOTIDE 1	
+			
+			
+			
+			
+			
+			
+			
+
+
+[MODEL] simple_unlinked_1
+	[submodel]	GTR 0.007231 0.015601 0.005513 0.012082 0.028579 
+	[statefreq] 0.583029 0.013994 0.050194 0.352784 
+	[rates] 0 1.060020 0 
+	[indelmodel] POW 1.880904 10 
+	[indelrate] 0.001867 
+	
+
+[MODEL] simple_unlinked_2
+	[submodel]	GTR 0.006240 0.020017 0.002527 0.018307 0.041942 
+	[statefreq] 0.044386 0.236131 0.537046 0.182438 
+	[rates] 0 0.883880 0 
+	[indelmodel] POW 1.769976 10 
+	[indelrate] 0.001730 
+	
+
+[MODEL] simple_unlinked_3
+	[submodel]	GTR 0.007135 0.013788 0.001991 0.009941 0.015494 
+	[statefreq] 0.159513 0.362804 0.179795 0.297887 
+	[rates] 0 0.074087 0 
+	[indelmodel] POW 1.764687 10 
+	[indelrate] 0.001685 
+	
+
+
+[TREE] T1 ((27_0_0:0.36213755,(29_0_0:0.16545539,5_0_0:0.16545539)3:0.19668216)4:1.43524531,((((((28_0_0:0.30603559,35_0_0:0.30603559)7:0.41733505,32_0_0:0.72337064)9:0.08423595,((((36_0_0:0.23056881,15_0_0:0.23056881)12:0.15257746,23_0_0:0.38314626)14:0.16705609,(3_0_0:0.46150008,((30_0_0:0.19705351,4_0_0:0.19705351)18:0.11237707,((1_0_0:0.05269046,33_0_0:0.05269046)21:0.17766683,26_0_0:0.23035729)23:0.07907330)24:0.15206950)25:0.08870227)26:0.10681458,24_0_0:0.65701694)28:0.15058965)29:0.15714648,((12_0_0:0.05975776,16_0_0:0.05975776)32:0.03454130,(14_0_0:0.03162955,2_0_0:0.03162955)35:0.06266951)36:0.87045401)37:0.40521305,(25_0_0:0.32122047,8_0_0:0.32122047)40:1.04874565)41:0.09938416,((18_0_0:0.88189229,(21_0_0:0.34322943,11_0_0:0.34322943)45:0.53866286)46:0.07838890,(((6_0_0:0.22213044,22_0_0:0.22213044)49:0.05466486,(19_0_0:0.06039592,((34_0_0:0.01424667,20_0_0:0.01424667)53:0.03020692,31_0_0:0.04445359)55:0.01594233)56:0.21639938)57:0.40344646,(((7_0_0:0.30804627,9_0_0:0.30804627)60:0.04344212,10_0_0:0.35148839)62:0.24035131,13_0_0:0.59183971)64:0.08840205)65:0.28003943)66:0.50906908)67:0.32803259);
+[TREE] T2 (27_0_0:1.79739264,(((25_0_0:0.32121664,8_0_0:0.32121664)3:1.04873519,(((((28_0_0:0.30603331,35_0_0:0.30603331)6:0.15751690,17_0_0:0.46355021)8:0.25983520,32_0_0:0.72338541)10:0.08421090,(((3_0_0:0.46150338,((4_0_0:0.19705357,30_0_0:0.19705357)14:0.11237907,(26_0_0:0.23035896,(33_0_0:0.05268972,1_0_0:0.05268972)18:0.17766925)19:0.07907367)20:0.15207074)21:0.08870049,((36_0_0:0.23056834,15_0_0:0.23056834)24:0.15257578,23_0_0:0.38314412)26:0.16705975)27:0.10681602,24_0_0:0.65701989)29:0.15057641)30:0.15720092,((16_0_0:0.05975573,12_0_0:0.05975573)33:0.03454250,(14_0_0:0.03162896,2_0_0:0.03162896)36:0.06266927)37:0.87049900)38:0.40515460)39:0.09938586,((((((20_0_0:0.01424181,34_0_0:0.01424181)42:0.03022918,31_0_0:0.04447099)44:0.01587866,19_0_0:0.06034965)46:0.21645557,(22_0_0:0.22213729,6_0_0:0.22213729)49:0.05466793)50:0.40343412,(13_0_0:0.59184962,((9_0_0:0.30803025,7_0_0:0.30803025)54:0.04343502,(10_0_0:0.28556236,37_0_0:0.28556236)57:0.06590291)58:0.24038435)59:0.08838972)60:0.28004682,(((11_0_0:0.34323138,21_0_0:0.34323138)63:0.23460802,(21_1_0:0.34322205,11_1_0:0.34322205)66:0.23461736)67:0.30405690,18_0_0:0.88189630)69:0.07838986)70:0.50905152)71:0.32805496);
+[TREE] T3 ((((((((34_0_0:0.01425430,20_0_0:0.01425430)2:0.03019775,31_0_0:0.04445206)4:0.01590742,19_0_0:0.06035947)6:0.21644151,(22_0_0:0.22213304,6_0_0:0.22213304)9:0.05466795)10:0.40341430,(13_0_0:0.59189072,((10_0_0:0.28555843,37_0_0:0.28555843)14:0.06590350,(9_0_0:0.30803206,7_0_0:0.30803206)17:0.04342988)18:0.24042879)19:0.08832457)20:0.28007307,((11_0_0:0.34327995,21_0_0:0.34327995)23:0.53861374,18_0_0:0.88189368)25:0.07839468)26:0.50904806,((((((17_3_0:0.46356019,(35_3_0:0.30603428,28_3_0:0.30603428)30:0.15752590)31:0.25981100,32_3_0:0.72337118)33:0.07343574,((17_0_0:0.46353233,((28_0_0:0.29531838,28_4_0:0.29531838)37:0.01071101,35_0_0:0.30602939)39:0.15750294)40:0.25984183,32_0_0:0.72337416)42:0.07343277)43:0.01079913,((24_0_0:0.65358591,24_5_0:0.65358591)46:0.00342807,(((36_0_0:0.23056581,15_0_0:0.23056581)49:0.15257823,23_0_0:0.38314404)51:0.16705794,(3_0_0:0.46149702,(((4_6_0:0.19706138,30_6_0:0.19706138)55:0.11238801,(26_6_0:0.23035403,(1_6_0:0.05268965,33_6_0:0.05268965)59:0.17766437)60:0.07909536)61:0.01625039,((30_0_0:0.19705651,4_0_0:0.19705651)64:0.11237271,((1_0_0:0.05272531,33_0_0:0.05272531)67:0.17763911,26_0_0:0.23036442)69:0.07906481)70:0.01627055)71:0.13579725)72:0.08870496)73:0.10681200)74:0.15059207)75:0.15714440,((16_0_0:0.05976112,12_0_0:0.05976112)78:0.03453945,(14_0_0:0.03163887,2_0_0:0.03163887)81:0.06266170)82:0.87044989)83:0.40520850,(8_0_0:0.32121800,25_0_0:0.32121800)86:1.04874096)87:0.09937747)88:0.32804490,((27_2_0:0.36214325,(5_2_0:0.16545153,29_2_0:0.16545153)92:0.19669171)93:0.07940704,(27_0_0:0.36214789,(5_0_0:0.16544676,29_0_0:0.16544676)97:0.19670112)98:0.07940240)99:1.35583103);
+
+[PARTITIONS] simple_1 [T1 simple_unlinked_1 1081]
+[PARTITIONS] simple_2 [T2 simple_unlinked_2 1119]
+[PARTITIONS] simple_3 [T3 simple_unlinked_3 1175]
+
+[EVOLVE] simple_1 1 alignment_1
+simple_2 1 alignment_2
+simple_3 1 alignment_3

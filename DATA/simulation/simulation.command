@@ -1,0 +1,1 @@
+simphy -I simphy_config.conf -O simulation 
