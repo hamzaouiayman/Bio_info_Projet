@@ -1,26 +1,23 @@
-from Bio import SeqIO
+import markov_clustering as mc
+import networkx as nx
+import random
 
-from Bio.Phylo.TreeConstruction import DistanceCalculator
-from Bio import AlignIO
+# number of nodes to use
+numnodes = 200
 
-align = AlignIO.read("../DATA/simulation/01/merge_file_alignement.aln", "clustal")
-print([id_.id for id_ in align])
-# aln = AlignIO.read(open("../DATA/simulation/01/alignment_1_Test.phy"), "phylip")
-# print(aln)
+# generate random positions as a dictionary where the key is the node id and the value
+# is a tuple containing 2D coordinates
+positions = {i:(random.random() * 2 - 1, random.random() * 2 - 1) for i in range(numnodes)}
 
-# calculator = DistanceCalculator('blosum62')
-# dm = calculator.get_distance(aln)
-# print(dm)
+# use networkx to generate the graph
+network = nx.random_geometric_graph(numnodes, 0.3, pos=positions)
 
-# print(dm)
+# then get the adjacency matrix (in sparse form)
+matrix = nx.to_scipy_sparse_matrix(network)
 
-# matr = [k for  k in dm]
+print(matrix)
 
-# print(matr)
+result = mc.run_mcl(matrix)           # run MCL with default parameters
+clusters = mc.get_clusters(result)    # get clusters
 
-#for record in SeqIO.parse("../DATA/simulation/01/alignment_1_TRUE.phy", "phylip"):
-#    print(record)
-
-#from Bio import Phylo
-#tree = Phylo.read("../DATA/simulation/01/g_trees2.trees", "newick")
-#Phylo.draw_ascii(tree)
+print(clusters)
