@@ -2,12 +2,12 @@ import markov_clustering as mc
 import numpy as np
 import time
 
-labels = np.load("../DATA/simulation2/1/labels.array.npy")
-distance_matrix = np.load("../DATA/simulation2/1/identity_distance_graph.array.npy") 
+labels = np.load("../DATA/simulation/01/labels.array.npy")
+distance_matrix = np.load("../DATA/simulation/01/identity_distance_graph1.array.npy") 
 
 distance_matrix = (distance_matrix <0.5).astype(int)
 
-file = open("../DATA/Resultat/MCL15.txt","w") 
+file = open("../DATA/Resultat/MCL3.txt","w") 
  
 
 

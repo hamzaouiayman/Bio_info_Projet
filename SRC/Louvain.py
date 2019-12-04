@@ -3,15 +3,15 @@ import igraph
 import numpy as np
 import time
 
-labels = np.load("../DATA/simulation2/1/labels.array.npy")
-distance_matrix = np.load("../DATA/simulation2/1/identity_distance_graph.array.npy")
+labels = np.load("../DATA/simulation/01/labels.array.npy")
+distance_matrix = np.load("../DATA/simulation/01/identity_distance_graph1.array.npy")
 
 
 g = igraph.Graph.Adjacency((distance_matrix < 0.5).tolist())
 #g.es['weight'] = distance_matrix[distance_matrix.nonzero()]
 #print(g)
 
-file = open("../DATA/Resultat/Louvain15.txt","w")
+file = open("../DATA/Resultat/Louvain3.txt","w")
 
 start = time.time()
 partition = louvain.find_partition(g, louvain.ModularityVertexPartition)

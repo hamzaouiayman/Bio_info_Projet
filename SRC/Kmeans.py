@@ -6,7 +6,7 @@ labels = np.load("../DATA/simulation2/1/labels.array.npy")
 distance_matrix = np.load("../DATA/simulation2/1/identity_distance_graph.array.npy")
 
 file = open("../DATA/Resultat/Kmeans15.txt","w")
-nb_cl = 15
+nb_cl = 3
 start = time.time()
 kmeans = KMeans(n_clusters=nb_cl, random_state=0).fit(distance_matrix)
 

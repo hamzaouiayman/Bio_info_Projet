@@ -2,11 +2,11 @@ from sklearn.cluster import AgglomerativeClustering
 import numpy as np
 import time
 
-labels = np.load("../DATA/simulation/01/labels.array.npy")
-distance_matrix = np.load("../DATA/simulation/01/distance_graph1.array.npy")
+labels = np.load("../DATA/simulation2/1/labels.array.npy")
+distance_matrix = np.load("../DATA/simulation2/1/identity_distance_graph.array.npy")
 
-file = open("../DATA/Resultat/hiearchicalCL3.txt","w")
-nb_cl = 3
+file = open("../DATA/Resultat/hiearchicalCL15.txt","w")
+nb_cl = 15
 start = time.time()
 
 clustering = AgglomerativeClustering(n_clusters=nb_cl).fit(distance_matrix)
