@@ -2,11 +2,11 @@ from sklearn.cluster import KMeans
 import numpy as np
 import time
 
-labels = np.load("../DATA/simulation2/1/labels.array.npy")
-distance_matrix = np.load("../DATA/simulation2/1/identity_distance_graph.array.npy")
+labels = np.load("../DATA/simulation30/1/labels.array.npy")
+distance_matrix = np.load("../DATA/simulation30/1/identity_distance_graph.array.npy")
 
-file = open("../DATA/Resultat/Kmeans15.txt","w")
-nb_cl = 3
+file = open("../DATA/Resultat/Kmeans30.txt","w")
+nb_cl = 30
 start = time.time()
 kmeans = KMeans(n_clusters=nb_cl, random_state=0).fit(distance_matrix)
 
