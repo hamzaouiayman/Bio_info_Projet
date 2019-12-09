@@ -6,7 +6,7 @@ labels = np.load("../DATA/simulation30/1/labels.array.npy")
 distance_matrix = np.load("../DATA/simulation30/1/identity_distance_graph.array.npy")
 
 file = open("../DATA/Resultat/hiearchicalCL30.txt","w")
-nb_cl = 30
+nb_cl = 29
 start = time.time()
 
 clustering = AgglomerativeClustering(n_clusters=nb_cl).fit(distance_matrix)
